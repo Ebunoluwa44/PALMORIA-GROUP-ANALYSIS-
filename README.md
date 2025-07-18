@@ -4,4 +4,12 @@
 ## OBJECTIVES
 ### This analysis aims to: 
 #### 1. Evaluate gender distribution across the company.
-#### 2. 
+#### 2. Assess fairness in employee performance ratings.
+#### 3. Analyse salary structure for potential gender pay gaps.
+#### 4. Ensure compliance with a newly mandated $90,000 minimum wage.
+#### 5. Calculate and allocate employee bonuses based on performance ratings.
+#### 6. Present clear, visual insights to aid executive decision making.
+
+## DATA PREPARATION AND CLEANING
+###Two datasets were provided: 
+
